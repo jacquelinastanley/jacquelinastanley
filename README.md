@@ -1,8 +1,7 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=blur&height=290&color=gradient&text=Hello!%20&section=footer&reversal=false&textBg=false&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&height=290&color=gradient&text=Hello!%20I'm%20Jacquelina&section=footer&reversal=false&textBg=false&animation=fadeIn)
 
 
-https://capsule-render.vercel.app/api?type=blur&height=290&color=gradient&text=Hello!%20&section=footer&reversal=false&textBg=false&animation=fadeIn
 
 <!--
 **jacquelinastanley/jacquelinastanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
