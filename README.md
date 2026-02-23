@@ -1,18 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=290&color=gradient&text=Hello!%20I'm%20Jacquelina&section=footer&reversal=false&textBg=false&animation=fadeIn)
-
 
 <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
 
-<h1 align="center">Hi (˶ᵔᗜᵔ˶)ﾉﾞ I'm Jacquelina Stanley from Kuala Lumpur, Malaysia 🇲🇾🫶🏻 </h1>
+<h1 align="center">Hi (˶ᵔᗜᵔ˶)ﾉﾞ I'm Jacquelina Stanley from Kuala Lumpur, Malaysia🫶🏻 </h1>
 
 <h3 align="center">
 ๋࣭ ⭑✮💻₊ ⊹ Junior DevOps & Cloud Engineer  ⭑✮💻₊ ⊹⚙️
 </h3>
 
-<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
-
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" />
+
 </p>
 
 ---
@@ -45,7 +41,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ---
 
-## ────୨ৎ────DevOps Toolchain ────୨ৎ────
+## ────୨ৎ────DevOps TechStack ────୨ৎ────
 
 ### ⋆°·☁︎ Cloud & Infrastructure
 <p>
@@ -112,4 +108,4 @@ My focus is on **scalability, reliability, security, and automation** across the
 ---
 
 📫 Reach me at **jacquelinastanley@gmail.com**<br>
-⚡ Fun fact: 
+
