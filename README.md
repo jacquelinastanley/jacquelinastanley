@@ -15,33 +15,24 @@
 
 <h2>────୨ৎ──── 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ────୨ৎ────</h2>
 
-I am a Junior DevOps & Cloud Engineer with strong passion for designing, automating, and operating production-grade cloud and Kubernetes platforms.
-My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle. ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+I’m a Junior DevOps & Cloud Engineer in transition, with hands-on experience building reliable, automated, and scalable cloud infrastructure through academic specialization in Cloud Engineering and personal projects.  With a strong foundation in AWS and modern DevOps practices, I focus on designing systems that are resilient by default, automated end-to-end, and built to scale without unnecessary complexity. ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 ---
 
 ## ────୨ৎ──── Certifications ────୨ৎ────
 
-<p align="left">
-<img src="https://img.shields.io/badge/CKA-Kubernetes%20Administrator-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CKS-Kubernetes%20Security-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+I am currently pursuing my goal of achieving AWS Professional certifications while contributing to high-impact modernization and automation initiatives. I do not plan to stop there and persue other required certifications in the DevOps and Cloud field to strengthen my credibility and knowledge. 
 
----
+## ────୨ৎ──── What I'm Currently Working on  ────୨ৎ────
 
-## ────୨ৎ──── What I Do ────୨ৎ────
+- Building my portfolio website using react and tailwind css to share with recruiters
+- Adding more project repositories to github to showcase my previous work
+- Studying and soon to attempt my AWS Cloud Practitioner certification
+- Learning and understanding more on AI , Agentic AI , ML , LLM's , RAG's and MCP's
+- Writing articles on my Medium to strengthen my technical writing
+- Sharing more updates on LinkedIn to build my network
 
-- Design and operate Kubernetes platforms (EKS, RKE2) for multi-environment workloads
-- Build reusable Terraform modules for AWS and Azure
-- Implement GitOps-based deployments using ArgoCD and Helm
-- Automate CI/CD pipelines for applications and infrastructure
-- Design centralized observability using Prometheus, Grafana, and ELK
-- Integrate DevSecOps practices into delivery workflows
-
----
-
-## ────୨ৎ────DevOps TechStack ────୨ৎ────
+## ────୨ৎ──── Dream DevOps TechStack ────୨ৎ────
 
 ### ⋆°·☁︎ Cloud & Infrastructure
 <p>
